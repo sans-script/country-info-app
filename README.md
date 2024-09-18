@@ -46,6 +46,14 @@ The project is divided into two parts:
 
 2. **Navigate to the Backend Directory**
 
+   From the root directory of the project:
+
+   ```bash
+   cd backend
+   ```
+
+   If you are in your home directory, use the following command:
+
    ```bash
    cd country-info-app/backend
    ```
@@ -81,10 +89,16 @@ The project is divided into two parts:
 
 1. **Navigate to the Frontend Directory**
 
-   In the root directory:
+   From the root directory of the project:
 
    ```bash
    cd frontend
+   ```
+
+   If you are in your home directory, use the following command:
+
+   ```bash
+   cd country-info-app/frontend
    ```
 
 2. **Install Dependencies**
