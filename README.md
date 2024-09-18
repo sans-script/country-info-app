@@ -12,13 +12,13 @@ The project is divided into two parts:
 
 - **Endpoints:**
 
-     **Get Available Countries** `/api/countries/available`
+  **Get Available Countries** `/api/countries/available`
 
-     - Fetches a list of available countries.
+  - Fetches a list of available countries.
 
-     **Get Country Info** `/api/countries/info/BR`
+  **Get Country Info** `/api/countries/info/BR`
 
-     - Retrieves detailed information about a specific country, including border countries, population data, and flag URL.
+  - Retrieves detailed information about a specific country, including border countries, population data, and flag URL.
 
 ### Frontend
 
@@ -26,15 +26,17 @@ The project is divided into two parts:
 
 - **Features:**
 
-     **Country List Page**
+  **Country List Page**
 
-     - Displays a list of countries. Each country name links to the Country Info Page.
+  - Displays a list of countries. Each country name links to the Country Info Page.
 
-     **Country Info Page**
+  **Country Info Page**
 
-     - Shows detailed information about a selected country, including country name, flag, border countries, and a population chart.
+  - Shows detailed information about a selected country, including country name, flag, border countries, and a population chart.
 
 ## Installation and Setup
+
+This project was built with `node v22.5.1`
 
 ### Backend Setup
 
