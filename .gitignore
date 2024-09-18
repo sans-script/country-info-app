@@ -1,0 +1,19 @@
+# Node modules in frontend and backend subdirectories
+frontend/node_modules/
+backend/node_modules/
+
+# Environment variables
+# .env
+
+# Build output
+frontend/dist/
+backend/dist/
+frontend/build/
+backend/build/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
