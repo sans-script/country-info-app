@@ -12,11 +12,11 @@ The project is divided into two parts:
 
 - **Endpoints:**
 
-  1. **Get Available Countries** `/api/countries/available`
+     **Get Available Countries** `/api/countries/available`
 
      - Fetches a list of available countries.
 
-  2. **Get Country Info** `/api/countries/info/BR`
+     **Get Country Info** `/api/countries/info/BR`
 
      - Retrieves detailed information about a specific country, including border countries, population data, and flag URL.
 
@@ -26,11 +26,11 @@ The project is divided into two parts:
 
 - **Features:**
 
-  1. **Country List Page**
+     **Country List Page**
 
      - Displays a list of countries. Each country name links to the Country Info Page.
 
-  2. **Country Info Page**
+     **Country Info Page**
 
      - Shows detailed information about a selected country, including country name, flag, border countries, and a population chart.
 
